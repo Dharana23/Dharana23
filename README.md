@@ -3,7 +3,7 @@
 I am Dharana, undergraduate student of B.Tech (Computer Science). I have various interests like Data Science and Artificial Intelligence. Woking everyday to make my dreams a reality!
 
 ### My current skills
-<img src = "https://img.shields.io/badge/-Pyhton3-257638?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src = "https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </br>
+<img src = "https://img.shields.io/badge/-Pyhton3-257638?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src = "https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-MySQL-c815c3?style=for-the-badge&logo=MySQL&logoColor=white"> </br>
 </br>
 ![Dharana's Github Stats](https://github-readme-stats.vercel.app/api?username=Dharana23&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
