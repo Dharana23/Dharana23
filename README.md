@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" height="250" src="https://static01.nyt.com/images/2020/04/15/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=90&auto=webp">
+<img align="right" height="250" border-radius="50%" src="https://static01.nyt.com/images/2020/04/15/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=90&auto=webp">
 I am Dharana, undergraduate student of B.Tech (Computer Science). I have various interests like Data Science and Artificial Intelligence. Woking everyday to make my dreams a reality!
 
 ### My current skills
