@@ -9,8 +9,8 @@ I am Dharana, undergraduate student of B.Tech (Computer Science). I have various
 
 ### Contact me on
 <a href="mailto:dharana2301@gmail.com">
-  <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+  <img align="left" width="25px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dharana/">
-  <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="25px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
