@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/pCxK8loDjJKm2ElmSA/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dharana23"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"         alt"LinkedIn Badge"/></a>
-  <a href="mailto:dharana2301@gmail.com"><img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt"E-Mail Badge"/></a>
+  <a href="https://www.linkedin.com/in/dharana23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt"LinkedIn Badge"/></a>
+  <a href="mailto:dharana2301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&style=for-the-badge" alt"E-Mail Badge"/></a>
 </div>
 <h1 align="center ">
   Hey There!
