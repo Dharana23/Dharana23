@@ -9,11 +9,7 @@
   Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height=""/>
 </h1>
-<div align="center">
-  <img src="https://c.tenor.com/ogUgOGosP64AAAAC/keyboard-baby.gif" alt="GIF" height="250" width="400"/>
-</div>
 
-<hr>
 <h3>:woman_technologist: About Me:</h3>
 <ul>
   <li>:computer: I'm a Computer Science Engineer</li>
