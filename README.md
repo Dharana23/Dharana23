@@ -37,6 +37,6 @@
 </div>
 
 <hr>
-<h3>:_fire: My Stats:</h3>
+<h3>:fire: My Stats:</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=dharana23&theme=dark&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharana23&layout=compact&theme=vision-friendly-dark"/>
